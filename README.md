@@ -1,3 +1,5 @@
 # scripts files for percona tpcemysql 
-# woonhak.kang (woonagi319@gmail.com)
+
+shell script files for parallel loading percona tpcemysql 
+- Author : woonhak.kang (woonagi319@gmail.com)
 
